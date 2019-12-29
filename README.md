@@ -1,3 +1,3 @@
 # Computer-Architecture/Project1
-##2-Bit History
-###實作
+## 2-Bit History
+### 簡介
