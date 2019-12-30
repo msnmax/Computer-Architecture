@@ -6,5 +6,10 @@
   * Environment:WIN10
   * IDE:Pycharm 4.0 Python 3.7
   * Language:Python
-### Input data: 
+### Parameter:
+Initial state:
+'''     initialstate0='N'##Initial state
+        initialstate1='N'#Initial state '''
+### Input: 
 Eample : N,T,T,N,T,T,N,T,T,N,T,T
+### Input: 
