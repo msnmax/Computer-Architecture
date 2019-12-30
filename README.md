@@ -8,8 +8,9 @@
   * Language:Python
 ### Parameter:
 Initial state:
-'''     initialstate0='N'##Initial state
-        initialstate1='N'#Initial state '''
+```py    initialstate0='N'##Initial state
+        initialstate1='N'#Initial state
+```     
 ### Input: 
 Eample : N,T,T,N,T,T,N,T,T,N,T,T
 ### Input: 
