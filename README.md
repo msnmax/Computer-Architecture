@@ -16,12 +16,12 @@ initialstate1='N'#Initial state
 Eample : N,T,T,N,T,T,N,T,T,N,T,T
 ### Output: 
 
-`----------------------------Round14----------------------------`
+    ----------------------------Round14----------------------------`
 
-`[['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]`
+    [['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]
 
-`Index=2C,Tag=E8,Hit`
+    Index=2C,Tag=E8,Hit
 
-`[['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]`
+    [['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]
 
-`Hit Rate=0.428571`
+    Hit Rate=0.428571
