@@ -25,3 +25,6 @@ Eample : N,T,T,N,T,T,N,T,T,N,T,T
     [['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]
 
     Hit Rate=0.428571
+### Step:
+1.Read input file:T,N,T,N....
+2.Set parameter: initial state
