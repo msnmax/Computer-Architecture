@@ -15,16 +15,23 @@ initialstate1='N'#Initial state
 ### Input: 
 Eample : N,T,T,N,T,T,N,T,T,N,T,T
 ### Output: 
-
-    ----------------------------Round14----------------------------`
-
-    [['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]
-
-    Index=2C,Tag=E8,Hit
-
-    [['2C', 'E4', 'E2', 'E8'], ['4C', 'E2', None, None]]
-
-    Hit Rate=0.428571
+    -------------------Round51-------------------
+    2BC State:WN,ST,ST,SN
+    Selector=01,Pred=T,Outcome=T,Hit
+    Misprediction=0.098039
 ### Step:
 #### 1.Read input file:T,N,T,N,T,N,T,N
-### 2.Set parameter: initial state
+#### 2.Set parameter: initial state
+#### 3.REGstate function會顯示目前4個2BC的狀態
+    REGstate()
+    Example:
+    2BC State:WN,ST,ST,SN
+#### 4.history() function會記錄前兩筆結果也就是Outcome
+##### select() function 根據history選擇prediction要使用的2BC
+##### prediction() function 根據選擇的2BC做預測 T or N
+##### changeREG() function 根據history以及Outcome去修改上次使用的2BC 
+    Selector=01,Pred=T,Outcome=T,Hit
+#### 5.Loop
+    for i in range (len(outcome))
+#### 6.Result:根據miss次數計算misspredicton
+    Misprediction=0.098039
