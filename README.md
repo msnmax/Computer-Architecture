@@ -26,6 +26,5 @@ Eample : N,T,T,N,T,T,N,T,T,N,T,T
 
     Hit Rate=0.428571
 ### Step:
-# 1.Read input file:T,N,T,N,T,N,T,N
-
-# 2.Set parameter: initial state
+#### 1.Read input file:T,N,T,N,T,N,T,N
+### 2.Set parameter: initial state
