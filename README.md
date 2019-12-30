@@ -20,8 +20,8 @@ Eample : N,T,T,N,T,T,N,T,T,N,T,T
     Selector=01,Pred=T,Outcome=T,Hit
     Misprediction=0.098039
 ### Step:
-#### 1.Read input file:T,N,T,N,T,N,T,N
-#### 2.Set parameter: initial state
+#### 1.Set parameter: initial state
+#### 2.Read input file:T,N,T,N,T,N,T,N
 #### 3.REGstate function會顯示目前4個2BC的狀態
     REGstate()
     Example:
