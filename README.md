@@ -6,5 +6,5 @@
   * Environment:WIN10
   * IDE:Pycharm 4.0 Python 3.7
   * Language:Python
-*Input data
+* Input data
 N,T,T,N,T,T,N,T,T,N,T,T
